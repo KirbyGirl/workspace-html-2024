@@ -40,6 +40,10 @@ and open the template in the editor.
     transition: all 0.5s ease-in-out;
 }
 
+#google{
+    border-radius: 300px;
+}
+
 .ahide{
     height: 20px;
     overflow: hidden;
