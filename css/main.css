@@ -44,6 +44,10 @@ and open the template in the editor.
     border-radius: 300px;
 }
 
+#plus{
+    border-radius: 100%;
+}
+
 .ahide{
     height: 20px;
     overflow: hidden;
